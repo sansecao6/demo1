@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(){
-	std::cout<<"this is b1";
+	std::cout<<"this is test";
 	return 0;
 }
