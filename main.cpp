@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(){
-	std::cout<<"HELLO";
+	std::cout<<"change";
 	return 0;
 }
